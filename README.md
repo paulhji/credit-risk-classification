@@ -1,6 +1,9 @@
 # credit-risk-classification
 ## Module 20 - Credit Risk Classification Challenge
 
+## File locations
+The data source file is under the Resources directory named "lending_data.csv". The python file credit_risk_classification.ipynb holds the code for the analysis and training of the models.
+
 ## Instructions
 The instructions for this Challenge are divided into the following subsections:
 
